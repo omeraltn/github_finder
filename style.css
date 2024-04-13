@@ -1,0 +1,7 @@
+@media (max-width:780px){
+   #profileButton{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+   }
+}
